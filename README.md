@@ -24,7 +24,6 @@ Eu sou a Cássia, apaixonada por tecnologia, aprendizado contínuo e desafios. E
 ## 📌 Projetos em Destaque:
 
 - **Projeto 1**: Breve descrição do que é esse projeto.  
-- **Projeto 2**: Outro projeto interessante que você fez ou está fazendo.  
 
 ## 📫 Contato:
 
